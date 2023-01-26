@@ -7,7 +7,7 @@ var movies = [
       "summary": "Patton Oswald, despite a personal tragedy, produces his best standup yet. Focusing on the tribulations of the Trump era and life after the loss of a loved one, Patton Oswald continues his journey to contribute joy to the world.",
       "ImageURL": "https://hydramovies.com/wp-content/uploads/2018/04/Patton-Oswalt-Annihilation-Movie-Poster.jpg",
       "imdb_id": "tt7026230",
-      "imdb_rating": 7.4,
+      "imdb_rating": 7.4,  
       "runtime": 66,
       "language": "English",
       "ytid": "4hZi5QaMBFc"
@@ -18,12 +18,12 @@ var movies = [
       "movie_year": 2005,
       "Categories": "Documentary|Music",
       "summary": "A recovering alcoholic and recently converted Mormon, Arthur \"Killer\" Kane, of the rock band The New York Dolls, is given a chance at reuniting with his band after 30 years.",
-      "ImageURL": "https://hydramovies.com/wp-content/uploads/2018/04/New-York-Doll-Movie-Poster.jpg",
-      "imdb_id": "tt0436629",
+      "ImageURL": "https://hydramovies.com/wp-content/uploads/2018/04/Patton-Oswalt-Annihilation-Movie-Poster.jpg",
+      "imdb_id": "tt7026230",
       "imdb_rating": 7.9,
       "runtime": 75,
       "language": "English",
-      "ytid": "jwD04NsnLLg"
+      "ytid": "4hZi5QaMBFc"
     },
     {
       "Title": "And Then I Go",
@@ -70,12 +70,12 @@ var movies = [
       "movie_year": 2007,
       "Categories": "Uncategorized",
       "summary": "Julie's boyfriend Ismaël lives with her; rather than worry about the time he spends with his colleague Alice, Julie invites Alice to join them. The three walk the streets of Paris, party, read, and sleep together. Sometimes it's lighthearted, sometimes there are jealousies. Then death strikes. In various ways, those left come to terms with the departure and absence of a loved one: showing concern, eating together, attempting new relationships, trying to \"be there\" for the other. Then, the spirit returns and new commitments are possible. The romantic elements of musical comedy play in contrast to the ambivalence of the lyrics and the story.",
-      "ImageURL": "https://hydramovies.com/wp-content/uploads/2018/04/Love-Songs-Movie-Poster.jpg",
-      "imdb_id": "tt0996605",
+      "ImageURL": "https://hydramovies.com/wp-content/uploads/2018/04/Peter-Rabbit-Movie-Poster.jpg",
+      "imdb_id": "tt5117670",
       "imdb_rating": 7.2,
       "runtime": 91,
       "language": "English",
-      "ytid": "s54vpKAFmS0"
+      "ytid": "7Pa_Weidt08"
     },
     {
       "Title": "89",
